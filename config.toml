@@ -26,7 +26,7 @@ search = true
 showThemeSwitcher = true
 defaultDarkTheme = false
 moveFooterToHeader = false
-logoAlt = ![MarineGEO circle logo](/Correspondances_Alexya/img/MarineGEO_logo.png "MarineGEO logo"
+logoAlt = ![image](/Correspondances_Alexya/logo.png)
 customCss = [ "css/custom_01.css", "css/custom_02.css" ]
 customJs = [ "js/custom_01.js", "js/custom_02.js" ]
 
