@@ -26,7 +26,7 @@ search = true
 showThemeSwitcher = true
 defaultDarkTheme = false
 moveFooterToHeader = false
-logoAlt = "description si le logo ne s'affiche pas"
+logoAlt = "Description si le logo ne s'affiche pas"
 customCss = [ "css/custom_01.css", "css/custom_02.css" ]
 customJs = [ "js/custom_01.js", "js/custom_02.js" ]
 
