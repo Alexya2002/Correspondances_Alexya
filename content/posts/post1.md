@@ -1,7 +1,7 @@
 ---
 title: "Lettre 1"
 date: 2020-05-15T15:36:09-06:00
-tags: [blabla, récurrent]
+tags: [Emma Tully, Écosse]
 toc: true
 ---
 Dear Alexya,
