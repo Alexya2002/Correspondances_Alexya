@@ -17,7 +17,7 @@ quality = 99
 [params]
 description = "Coucou"
 homeMetaContent = ""
-footer = "Texte du footer"
+footer = "© COPYRIGHT ALEXYA MORIN – 2023"
 dateFormat = "Jan 2, 2006"
 codePenUser = "someUser"
 katex = true
