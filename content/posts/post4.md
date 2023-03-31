@@ -12,5 +12,5 @@ Thank you for the earrings! I will wear them in the front with sparkly sparkle b
 {{< /note >}}
 
 {{< note >}}
-(next day) Cluckraptor passed away. A dog came to kill her and dislocated another chicken leg. 
+Today Cluckraptor passed away. A dog came to kill her and dislocated another chicken leg. 
 {{< /note >}}
