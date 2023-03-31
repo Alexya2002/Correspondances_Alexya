@@ -1,7 +1,7 @@
 baseURL = "https://alexya2002.github.io/Correspondances_Alexya/"
 languageCode = "fr"
 defaultContentLanguage = "fr"
-title = "Titre"
+title = "Alexya Morin correspondances"
 theme = "cupper-hugo-theme"
 enableGitInfo = true
 
