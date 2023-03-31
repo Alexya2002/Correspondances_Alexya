@@ -10,7 +10,7 @@ Thank you for agreeing to be my pen pal. I can’t wait to get to know you. I sh
 
 
 >- Capital = Edinburgh
-- Largest city = Glasgow
-- Area = 78 772 km2 
-- Population = 5 million
-- Symbol = Thistle
+>- Largest city = Glasgow
+>- Area = 78 772 km2 
+>- Population = 5 million
+>- Symbol = Thistle
