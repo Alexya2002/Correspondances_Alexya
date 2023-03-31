@@ -12,8 +12,8 @@ Thank you for agreeing to be my pen pal. I can’t wait to get to know you. I sh
 
 > Largest city = Glasgow
 
-> Area = 78 772 km2 
+> Area = 78 772 km<sup>2</sup>
 
-> Population = 5 million<sup>2</sup>
+> Population = 5 million
 
 > Symbol = Thistle
