@@ -9,6 +9,7 @@ I was so happy to receive your letter. Thank you for everything included! I love
 {{< warning >}}
 We do have so many dangerous animals, but I don’t really see many. Kangaroos as pets are not so common and I think I have only ever seen a real boomerang twice haha.
 {{< /warning >}}
+
 I love hearing about other countries stereotypes of Australia. I think the main things I know about Canada is snow, people are really nice, maple syrup and ice hockey. I’m not sure if there are major differences in Aussie English apart from the Slang we use. I’ll include some Aussie Slang at the end of the letter. I struggle in the summer heat and wish I was in the cold but I have never seen snow or been below zero degrees so I really don’t know how I would be. I usually don’t get cold very easily. I’m glad you liked the postcard. I really can’t wait to hear from you and to get to know you more.
 
 ## Glossary 
