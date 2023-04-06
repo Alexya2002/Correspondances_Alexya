@@ -624,6 +624,7 @@ pre[class*=language-] code * {
 .file-tree {
     overflow-x: auto;
     color: #006106;
+    background-color: #b5ffba;
 }
 .file-tree ul {
     font-family: Courier, monospace;
