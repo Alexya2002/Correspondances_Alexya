@@ -120,11 +120,9 @@ h4 {
 }
 h1 {
     font-size: 2rem;
-    color: #004304;
 }
 h2 {
     font-size: 1.66rem;
-    color: #004304;
 }
 h3 {
     font-size: 1.25rem;
@@ -637,7 +635,7 @@ pre[class*=language-] code * {
     overflow-y: hidden;
 }
 .file-tree li {
-    background: #fefefe;
+    background: #9cffa2;;
     position: relative;
     white-space: nowrap;
 }
