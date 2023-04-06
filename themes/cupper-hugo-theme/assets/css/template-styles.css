@@ -120,9 +120,11 @@ h4 {
 }
 h1 {
     font-size: 2rem;
+    color: #b5ffba;
 }
 h2 {
     font-size: 1.66rem;
+    color: #b5ffba;
 }
 h3 {
     font-size: 1.25rem;
@@ -423,7 +425,7 @@ caption {
 }
 #menu-button:focus {
     outline: none;
-    box-shadow: inset 0 0 0 0.25rem #c0f8c4;;
+    box-shadow: inset 0 0 0 0.25rem #000000;
 }
 
 /* Tables of contents */
@@ -620,6 +622,7 @@ pre[class*=language-] code * {
 /* File tree lists */
 .file-tree {
     overflow-x: auto;
+    background-color: #b5ffba;
 }
 .file-tree ul {
     font-family: Courier, monospace;
@@ -677,7 +680,7 @@ pre[class*=language-] code * {
 }
 [data-expands] {
     text-align: left;
-    color: #c0f8c4;
+    color: #b5ffba;
     border: 0;
     background: none;
     width: 100%;
