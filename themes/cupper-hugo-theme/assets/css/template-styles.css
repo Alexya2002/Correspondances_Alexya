@@ -49,7 +49,7 @@ p + p {
 a {
     text-decoration: dashed;
     border-bottom: 1px solid;
-    color: #b5ffba;
+    color: #006106;
 }
 abbr {
     text-decoration: none;
@@ -121,11 +121,11 @@ h4 {
 }
 h1 {
     font-size: 2rem;
-    color: #006106;
+    color: #b5ffba;
 }
 h2 {
     font-size: 1.66rem;
-    color: #b5ffba;
+    color: #006106;
 }
 h3 {
     font-size: 1.25rem;
@@ -623,7 +623,7 @@ pre[class*=language-] code * {
 /* File tree lists */
 .file-tree {
     overflow-x: auto;
-    color: #b5ffba;
+    color: #006106;
 }
 .file-tree ul {
     font-family: Courier, monospace;
