@@ -260,6 +260,7 @@ table {
     table-layout: fixed;
     width: 100%;
     border-collapse: collapse;
+    background-color:#c0f8c4;
 }
 th,
 td {
@@ -635,7 +636,7 @@ pre[class*=language-] code * {
     overflow-y: hidden;
 }
 .file-tree li {
-    background: #9cffa2;;
+    background: #ffffff;;
     position: relative;
     white-space: nowrap;
 }
