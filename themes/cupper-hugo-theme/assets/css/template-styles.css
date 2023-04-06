@@ -153,6 +153,7 @@ pre,
     overflow-x: auto;
     padding: 1.5rem;
     border: 1px solid;
+    background-color: #b5ffba;
 }
 code {
     font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
