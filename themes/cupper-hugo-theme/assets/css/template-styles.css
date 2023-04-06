@@ -49,6 +49,7 @@ p + p {
 a {
     text-decoration: dashed;
     border-bottom: 1px solid;
+    color: #b5ffba;
 }
 abbr {
     text-decoration: none;
