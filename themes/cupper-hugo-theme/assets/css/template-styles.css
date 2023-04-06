@@ -153,7 +153,6 @@ pre,
     overflow-x: auto;
     padding: 1.5rem;
     border: 1px solid;
-    background-color: #b5ffba;
 }
 code {
     font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
@@ -624,7 +623,6 @@ pre[class*=language-] code * {
 /* File tree lists */
 .file-tree {
     overflow-x: auto;
-    color: #111;
     background-color: #b5ffba;
 }
 .file-tree ul {
@@ -642,7 +640,7 @@ pre[class*=language-] code * {
     overflow-y: hidden;
 }
 .file-tree li {
-    background: #ffffff;;
+    background: #b5ffba;
     position: relative;
     white-space: nowrap;
 }
