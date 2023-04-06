@@ -623,7 +623,7 @@ pre[class*=language-] code * {
 /* File tree lists */
 .file-tree {
     overflow-x: auto;
-    color: #006106;
+    color: #000000;
     background-color: #b5ffba;
 }
 .file-tree ul {
