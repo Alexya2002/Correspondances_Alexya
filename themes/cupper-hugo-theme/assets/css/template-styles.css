@@ -120,7 +120,7 @@ h4 {
 }
 h1 {
     font-size: 2rem;
-    color: #b5ffba;
+    color: #006106;
 }
 h2 {
     font-size: 1.66rem;
@@ -262,7 +262,7 @@ table {
     table-layout: fixed;
     width: 100%;
     border-collapse: collapse;
-    background-color:#c0f8c4;
+    background-color:#006106;
 }
 th,
 td {
@@ -622,7 +622,7 @@ pre[class*=language-] code * {
 /* File tree lists */
 .file-tree {
     overflow-x: auto;
-    background-color: #b5ffba;
+    color: #b5ffba;
 }
 .file-tree ul {
     font-family: Courier, monospace;
