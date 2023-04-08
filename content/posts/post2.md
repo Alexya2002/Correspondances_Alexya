@@ -9,7 +9,7 @@ How are you? I hope you are well. My name is Maggie and I’m from Australia. Cu
 
 ## Pictures
 {{< expandable label="expansion 1" level="2" >}}
-![MarineGEO circle logo](/resources/_gen/images/docs/cupper-shortcodes/image1.jpg "MarineGEO logo")
+<img src="/resources/_gen/images/docs/cupper-shortcodes/image1.jpg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 {{< /expandable >}}
 
 {{< expandable label="expansion 2" level="2" >}}
