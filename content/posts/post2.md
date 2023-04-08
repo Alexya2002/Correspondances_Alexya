@@ -9,12 +9,12 @@ How are you? I hope you are well. My name is Maggie and I’m from Australia. Cu
 
 ## Pictures
 {{< expandable label="image 1" level="2" >}}
-{{< figureCupper
+
+{{</* figureCupper
 img="image1.jpg" 
 caption="Légende avec crédits" 
 command="Resize" 
-options="700x" >}}
-{{< /expandable >}}
+options="700x" */>}}
 
 {{< expandable label="image 2" level="2" >}}
 IMAGE 2
