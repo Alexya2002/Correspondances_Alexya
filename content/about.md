@@ -7,7 +7,7 @@ title: "Crédits"
     * Hugo 
     * Thème Cupper créé par
          * [Heydon Pickering](https://heydonworks.com/)
-         * [The Paciello Group](https://www.tpgi.com/)
+         * [Zachary Betz](https://zwbetz.com/)
 * et les outils
     * VsCodium
     * GitHub
