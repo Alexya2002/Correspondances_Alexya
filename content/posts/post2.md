@@ -15,5 +15,7 @@ How are you? I hope you are well. My name is Maggie and I’m from Australia. Cu
 {{< /expandable >}}
 
 {{< expandable label="expansion 2" level="2" >}}
-Texte
+
+![image](/resources/_gen/images/docs/cupper-shortcodes/image2.jpg)
+
 {{< /expandable >}}
