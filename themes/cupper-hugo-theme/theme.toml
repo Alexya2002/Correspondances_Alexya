@@ -1,15 +1,15 @@
-name = "Cupper"
+name = "Alexya Morin correspondances"
 license = "MIT"
 licenselink = "https://github.com/zwbetz-gh/cupper-hugo-theme/blob/master/LICENSE"
 description = "An accessibility-friendly Hugo theme, ported from the original Cupper project."
-homepage = "https://github.com/zwbetz-gh/cupper-hugo-theme"
+homepage = "https://alexya2002.github.io/Correspondances_Alexya/"
 tags = ["accessible", "blog", "documentation", "dark"]
 features = ["accessible", "blog", "documentation", "dark"]
 min_version = "0.81.0"
 
 [author]
-  name = "Zachary Betz"
-  homepage = "https://zwbetz.com/"
+  name = "Alexya Morin"
+  homepage = "https://alexya2002.github.io/Correspondances_Alexya/"
 
 [original]
   name = "Cupper"
