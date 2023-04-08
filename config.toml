@@ -17,7 +17,7 @@ quality = 99
 [params]
 description = "Coucou"
 homeMetaContent = ""
-footer = "Copyright © 2023 Zachary Betz"
+footer = "Copyright © 2023 Zachary Betz. Licence MIT"
 dateFormat = "Jan 2, 2006"
 codePenUser = "someUser"
 katex = true
