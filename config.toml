@@ -5,8 +5,7 @@ title = "Alexya Morin correspondances"
 theme = "cupper-hugo-theme"
 enableGitInfo = true
 
-{{ author := "123 Main St."}}
-{{ author }}
+{{ .Site.Params.nom_variable }}
 
 [taxonomies]
 tag = "tags"
