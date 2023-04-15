@@ -5,7 +5,9 @@ title = "Alexya Morin correspondances"
 theme = "cupper-hugo-theme"
 enableGitInfo = true
 
-<meta name="author" content="{{ .Site.Params.Alexya.Morin }}">
+{{ .Site.Params }}
+<name="author" content="">
+{{ end }}
 
 [taxonomies]
 tag = "tags"
