@@ -15,7 +15,8 @@ posts = "/:filename/"
 quality = 99
 
 [params]
-{{ .Site.Params.nom_variable }}
+{{ .Site.Params.author }}
+{{ end }}
 description = ""
 homeMetaContent = ""
 footer = "Copyright © 2017 Heydon Pickering. Copyright © 2019 Zachary Betz. Licence MIT."
