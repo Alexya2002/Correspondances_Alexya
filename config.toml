@@ -15,7 +15,7 @@ posts = "/:filename/"
 quality = 99
 
 [params]
-description = "Coucou"
+description = ""
 homeMetaContent = ""
 footer = "Copyright © 2017 Heydon Pickering. Copyright © 2019 Zachary Betz. Licence MIT."
 dateFormat = "Jan 2, 2006"
