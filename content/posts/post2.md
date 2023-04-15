@@ -10,12 +10,12 @@ How are you? I hope you are well. My name is Maggie and I’m from Australia. Cu
 ## Pictures
 {{< expandable label="Coogee Beach" level="2" >}}
 
-![image](../image1.jpg)
+![image](static/image1.jpg)
 
 {{< /expandable >}}
 
 {{< expandable label="Bay Run in Drummoyne" level="2" >}}
 
-![image](../image2.jpg)
+![image](static/image2.jpg)
 
 {{< /expandable >}}
