@@ -10,8 +10,8 @@
           <h1>{{ . }}</h1>
         {{ else }}
           <img 
-            src="images/logo.png" 
-            alt="An alternative text description of the logo"
+            src="{{ "./images/logo.png" | relURL }}" 
+            alt="{{ .Site.Params.logoAlt | default "Logo" }}"
           >
         {{ end }}
       </a>
