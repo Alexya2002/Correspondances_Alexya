@@ -7,7 +7,6 @@
     {{ partial "svg.html" . }}
     <div class="wrapper">
       {{ partial "header.html" . }}
-      {{ .Site.Params.Author }}
       <div class="main-and-footer">
         <div>
           {{ block "main" . }}{{ end }}
@@ -18,7 +17,6 @@
         </div>
       </div>
     </div>
-    {{ .Site.Params.Author }}
     {{ partial "script.html" . }}
     {{ partial "katex.html" . }}
     {{ partial "google-analytics-async.html" . }}
