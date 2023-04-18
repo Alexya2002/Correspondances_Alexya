@@ -5,6 +5,7 @@
     <a href="#main">{{ T "skip_to_content" }}</a>
     {{ partial "noscript.html" . }}
     {{ partial "svg.html" . }}
+    {{ .Site.Params.Author }}
     <div class="wrapper">
       {{ partial "header.html" . }}
       <div class="main-and-footer">
