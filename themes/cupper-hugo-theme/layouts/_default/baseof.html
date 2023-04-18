@@ -11,7 +11,6 @@
         <div>
           {{ block "main" . }}{{ end }}
           {{ if ne .Site.Params.moveFooterToHeader true }}
-            {{ .Site.Params.Author }}
             {{ partial "footer.html" . }}
           {{ end }}
         </div>
