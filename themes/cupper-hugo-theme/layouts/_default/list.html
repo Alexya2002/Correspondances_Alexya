@@ -2,6 +2,7 @@
 <main id="main">
   <h1>{{ .Title }}</h1>
   {{ if site.Params.search }}
+  {{ .Site.Params.Author }}
   <input
     id="search"
     type="text"
@@ -25,12 +26,8 @@
           {{ .Title }}
         </a>
       </h2>
-    </li
-      {{ .Site.Params.Author }}
-      >
+    </li>
     {{ end }}
   </ul>
-</main
-  {{ .Site.Params.Author }}
- >
+</main>
 {{ end }}
