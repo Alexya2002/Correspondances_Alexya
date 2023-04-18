@@ -16,6 +16,7 @@ quality = 99
 
 [params]
 author = "Alexya Morin"
+licence = "CC-NC-BY-SA"
 description = ""
 homeMetaContent = ""
 footer = "Les contenus de ce site sont sous license [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/) : Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
