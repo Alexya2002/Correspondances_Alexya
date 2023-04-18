@@ -15,12 +15,11 @@ posts = "/:filename/"
 quality = 99
 
 [params]
-{{ .Site.Params.Licence }}
+author = "Alexya Morin"
 licence = "CC-NC-BY-SA"
-{{ end }}
 description = ""
 homeMetaContent = ""
-footer = "Copyright © 2017 Heydon Pickering. Copyright © 2019 Zachary Betz."
+footer = "Les contenus de ce site sont sous license [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/) : Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions."
 dateFormat = "Jan 2, 2006"
 codePenUser = "someUser"
 katex = true
