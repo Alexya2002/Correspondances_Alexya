@@ -15,9 +15,11 @@ posts = "/:filename/"
 quality = 99
 
 [params]
+{{ .Site.Params.Licence }}
+licence = "CC-NC-BY-SA"
 description = ""
 homeMetaContent = ""
-footer = "Copyright © 2017 Heydon Pickering. Copyright © 2019 Zachary Betz. Licence MIT."
+footer = "Copyright © 2017 Heydon Pickering. Copyright © 2019 Zachary Betz."
 dateFormat = "Jan 2, 2006"
 codePenUser = "someUser"
 katex = true
