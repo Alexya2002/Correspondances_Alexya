@@ -17,6 +17,7 @@ quality = 99
 [params]
 {{ .Site.Params.Licence }}
 licence = "CC-NC-BY-SA"
+{{end}}
 description = ""
 homeMetaContent = ""
 footer = "Copyright © 2017 Heydon Pickering. Copyright © 2019 Zachary Betz."
